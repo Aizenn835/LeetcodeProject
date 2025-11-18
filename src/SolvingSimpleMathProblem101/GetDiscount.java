@@ -12,5 +12,6 @@ public class GetDiscount {
           double result = discount(500 ,  10);
 
         System.out.println("The discount is: " + result );
+
     }
 }
